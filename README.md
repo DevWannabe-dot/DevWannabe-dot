@@ -23,5 +23,7 @@
 2. 💪 Opened PR [#1](https://github.com/DevWannabe-dot/DevWannabe-dot/pull/1) in [DevWannabe-dot/DevWannabe-dot](https://github.com/DevWannabe-dot/DevWannabe-dot)
 <!--END_SECTION:activity-->
 
+---
+
 <!-- Visualizações no perfil -->
 ![counter](https://enl10dk161cmk8p.m.pipedream.net)
