@@ -1,16 +1,28 @@
-### Hi there 👋
+### Olá! Meu nome é Pedro Henrique
 
-<!--
-**DevWannabe-dot/DevWannabe-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 16y
+- Segundo ano de Desenvolvimento de Sistemas no Coltec - UFMG
+- 🔭 I’m currently working on [ColtecApp](https://github.com/DevWannabe-dot/coltecapp)
+- 🌱 I’m currently learning C++
+- 👀 I'm interested in full-stack development
+- 😄 Pronouns: He/Him
+- 📫 How to reach me:
+   - Email: pedro26.3.h@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- Estatísticas -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=DevWannabe-dot&show_icons=true&theme=merko&include_all_commits=true&count_private=true&disable_animations=true)
+
+---
+
+<!-- Visualizações no perfil -->
+![counter](https://enl10dk161cmk8p.m.pipedream.net)
+
+
+---
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
