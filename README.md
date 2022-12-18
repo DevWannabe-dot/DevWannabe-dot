@@ -24,3 +24,6 @@
 ---
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/DevWannabe-dot/DevWannabe-dot/pull/1) in [DevWannabe-dot/DevWannabe-dot](https://github.com/DevWannabe-dot/DevWannabe-dot)
+2. 💪 Opened PR [#1](https://github.com/DevWannabe-dot/DevWannabe-dot/pull/1) in [DevWannabe-dot/DevWannabe-dot](https://github.com/DevWannabe-dot/DevWannabe-dot)
+<!--END_SECTION:activity-->
