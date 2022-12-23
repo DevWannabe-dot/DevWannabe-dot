@@ -11,7 +11,7 @@
 ---
 
 <!-- Estatísticas -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=DevWannabe-dot&show_icons=true&theme=merko&include_all_commits=true&count_private=true&disable_animations=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=DevWannabe-dot&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&disable_animations=true)
 
 ---
 
