@@ -18,8 +18,8 @@
 ### :zap: Atividade recente
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/DevWannabe-dot/DevWannabe-dot/pull/2) in [DevWannabe-dot/DevWannabe-dot](https://github.com/DevWannabe-dot/DevWannabe-dot)
-2. 💪 Opened PR [#2](https://github.com/DevWannabe-dot/DevWannabe-dot/pull/2) in [DevWannabe-dot/DevWannabe-dot](https://github.com/DevWannabe-dot/DevWannabe-dot)
+1. ❗️ Opened issue [#6](https://github.com/angxlwtf/Crewcam/issues/6) in [angxlwtf/Crewcam](https://github.com/angxlwtf/Crewcam)
+2. 🎉 Merged PR [#2](https://github.com/DevWannabe-dot/DevWannabe-dot/pull/2) in [DevWannabe-dot/DevWannabe-dot](https://github.com/DevWannabe-dot/DevWannabe-dot)
 <!--END_SECTION:activity-->
 
 ---
