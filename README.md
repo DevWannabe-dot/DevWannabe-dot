@@ -2,7 +2,7 @@
 
 - Segundo ano de Desenvolvimento de Sistemas no Coltec - UFMG
 - 🔭 I’m currently working on [fichaAcad](https://github.com/DevWannabe-dot/fichaAcad)
-- 🌱 I’m currently learning C++, Git
+- 🌱 I’m currently learning GDB, Git
 - 👀 I'm interested in full-stack development
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
