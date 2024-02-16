@@ -3,10 +3,6 @@
 - Terceiro ano de Desenvolvimento de Sistemas no Coltec - UFMG
 - 🌱 I’m currently learning algorithms, data structures
 - 👀 I'm interested in full-stack development
-- 😄 Pronouns: He/Him
-- 📫 How to reach me:
-   - Email: pedro26.3.h@gmail.com
-   - LinkedIn: [pedrolive-ira](https://www.linkedin.com/in/pedrolive-ira/)
 
 ---
 
