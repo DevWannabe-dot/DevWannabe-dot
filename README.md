@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Pedro Henrique :wave:
 
 - Terceiro ano de Desenvolvimento de Sistemas no Coltec - UFMG
-- 🌱 I’m currently learning algorithms, data structures
+- 🌱 I’m currently learning Front-End, Agile software development
 - 👀 I'm interested in full-stack development
 
 ---
@@ -14,6 +14,7 @@
 <!-- Afinidades -->
 ### Languages <br><br>
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
