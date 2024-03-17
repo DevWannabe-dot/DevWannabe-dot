@@ -7,10 +7,10 @@
 ---
 
 <!-- Estatísticas -->
-<a href="https://github.com/devwannabe-dot">
+<a href="https://github.com/DevWannabe-dot">
   <img height=200 align="center" src="https://github-readme-devwannabedots-projects.vercel.app/api?username=DevWannabe-dot&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&show=discussions_started,discussions_answered&hide=stars&exclude_repo=github-readme" />
 </a>
-<a href="https://github.com/devwannabe-dot">
+<a href="https://github.com/DevWannabe-dot">
   <img height=200 align="center" src="https://github-readme-devwannabedots-projects.vercel.app/api/top-langs/?username=devwannabe-dot&layout=compact&theme=highcontrast&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged&exclude_repo=github-readme" />
 </a>
 
