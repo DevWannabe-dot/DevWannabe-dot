@@ -1,8 +1,8 @@
 ### Olá! Meu nome é Pedro Henrique :wave:
 
-- Terceiro ano de Desenvolvimento de Sistemas no Coltec - UFMG
-- 🌱 I’m currently learning Front-End development
-- 👀 I'm interested in full-stack development
+- Terceiro ano de Desenvolvimento de Sistemas no Coltec - UFMG;
+- 🌱 I’m currently learning Front-end development;
+- 👀 I'm interested in Full-stack development.
 
 ---
 
@@ -38,6 +38,5 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
 
 <!-- EOF -->
