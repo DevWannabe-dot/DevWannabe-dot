@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Pedro Henrique :wave:
 
 - Terceiro ano de Desenvolvimento de Sistemas no Coltec - UFMG;
-- 🌱 I’m currently learning Front-end development;
+- 🌱 I’m currently learning Back-end development;
 - 👀 I'm interested in Full-stack development.
 
 ---
