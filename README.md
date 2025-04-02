@@ -1,12 +1,11 @@
-### Olá! Meu nome é Pedro Henrique :wave:
+### Hey there! My name is Pedro Henrique :wave:
 
-- Terceiro ano de Desenvolvimento de Sistemas no Coltec - UFMG;
-- 🌱 I’m currently learning Back-end development;
+- Systems Development Technician by Coltec - UFMG;
 - 👀 I'm interested in Full-stack development.
 
 ---
 
-<!-- Estatísticas -->
+<!-- Stats -->
 <a href="https://github.com/DevWannabe-dot">
   <img height="230" align="center" src="https://github-readme-devwannabedots-projects.vercel.app/api?username=DevWannabe-dot&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&show=discussions_started,discussions_answered&hide=stars&exclude_repo=github-readme" />
 </a>
@@ -16,7 +15,7 @@
 
 ---
 
-<!-- Afinidades -->
+<!-- Skills -->
 ### Languages
 ![HTML](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
